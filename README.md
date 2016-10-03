@@ -1,6 +1,6 @@
 # Rails New Setup
 
-This repos is a rails template setup with specific gems and changes.
+This repo is a rails project template with specific gems and changes.
 
 Originally contributed by @ryanflach here: [Rails Project Template](https://github.com/ryanflach/rails_project_template)
 
